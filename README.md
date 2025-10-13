@@ -1,1 +1,7 @@
-A GUI tool that moves large folders to external drives while maintaining accessibility via symbolic links. Features dual progress bars showing overall and per-file copy status, ensuring seamless file migration with visual feedback. 一款GUI工具，可将大型文件夹移动到外部驱动器，同时通过符号链接保持可访问性。具备双进度条显示整体和单个文件复制状态，确保文件迁移过程可视化且无缝。
+A GUI tool that moves large folders to external drives while maintaining accessibility via symbolic links. Features dual progress bars showing overall and per-file copy status, ensuring seamless file migration with visual feedback. 
+
+一款GUI工具，可将大型文件夹移动到外部驱动器， **同时通过符号链接保持可访问性。** 具备双进度条显示整体和单个文件复制状态，确保文件迁移过程可视化且无缝。
+_____
+I will re-write this project with RUST when free. The python edition is soooooooooooo slowwwwwww.
+
+### ~~现在的版本是python的，很慢。空了用rust重新写一个（逃~~
